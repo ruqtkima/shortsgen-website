@@ -1,0 +1,51 @@
+Privacy Policy for ShortsGen
+Last Updated: July 19, 2025
+
+1. Introduction
+Welcome to ShortsGen ("we," "our," or "us"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application, ShortsGen (the "Application"). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
+
+This Application is a tool designed to work as a plugin/script within Adobe After Effects ("Host Application"). Its primary function is to help users fetch media assets from third-party services and automate video editing workflows.
+
+2. Information We Collect
+As a client-side script operating within the Host Application, ShortsGen is designed to be privacy-focused. We do not collect, store, or transmit any Personal Identifiable Information (PII) from our users.
+
+The information handled by the Application includes:
+
+API Keys: You may provide an API key for third-party services like Giphy. This key is stored locally on your machine within the Host Application's preferences or environment and is used solely to make requests to that third-party service on your behalf. We do not have access to this key.
+
+Search Queries: Keywords you enter for fetching media are sent directly to the respective third-party service (e.g., Giphy). These queries are not logged, stored, or monitored by us.
+
+Configuration Settings: Settings such as preferred download location, composition settings (BPM, duration, aspect ratio), and other UI preferences are stored locally on your computer.
+
+3. How We Use Your Information
+Since we do not collect personal information, we do not use it. The non-personal data (API keys, settings) handled by the Application is used exclusively to:
+
+Enable the core functionality of the Application, which is fetching media from third-party APIs.
+
+Create and manage asset folders on your local computer as directed by you.
+
+Automate composition creation and timeline arrangement within the Host Application.
+
+4. Data Sharing and Disclosure
+We do not share or disclose any of your information because we do not have access to it. All operations are performed locally on your machine. Your search queries and API key are sent directly from your computer to the relevant third-party service (e.g., Giphy) and are subject to their respective privacy policies.
+
+5. Data Security
+The security of your information is important to us. All data handled by the Application, such as your API key and settings, is stored locally on your device. We have no server-side components and therefore do not store your data on our servers. You are responsible for the security of your own computer and your API keys.
+
+6. Third-Party Services
+Our Application allows you to connect to third-party services, such as Giphy. When you use these features, you are subject to the privacy policies of those services. We are not responsible for the practices of third-party services.
+
+Giphy: When you fetch assets from Giphy, your requests are governed by the Giphy Privacy Policy.
+
+7. Children's Privacy
+Our Application is not intended for use by children under the age of 13. We do not knowingly collect any information from children. If you believe we might have any information from or about a child, please contact us so we can take appropriate action.
+
+8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of our practices.
+
+9. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Ruqtkim
+iamdialock@gmail.com
+[Your ShortsGen Website - Coming Soon]
